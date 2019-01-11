@@ -4,3 +4,5 @@
 3. npm start
 
 ![img](https://github.com/youhui/react-native-cocoapods-swift-project/blob/master/20190111-175232.png "img")
+
+[blog](https://www.cnblogs.com/youhui/p/10251684.html)
